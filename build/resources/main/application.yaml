@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: google-map-service
+
+google:
+  api:
+    key: AIzaSyC4DjK5tLFBL9ujpUPWKcglEtPx2E0n_x8
